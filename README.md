@@ -7,3 +7,5 @@
   * [Python學習筆記](https://weihsiangteng.github.io/Learn_All_Aspects_of_Python/) 
 * 投資
   * [程式交易](https://weihsiangteng.github.io/Program_Trading/)
+* 數學
+  * [高等微積分](https://weihsiangteng.github.io/NTU_OCW_Advanced_Calculus/)
